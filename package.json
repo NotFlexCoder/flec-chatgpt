@@ -1,0 +1,12 @@
+{
+  "name": "flec-api",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "vercel dev"
+  },
+  "dependencies": {
+    "node-fetch": "^3.3.2",
+    "nanoid": "^5.0.2"
+  }
+}
